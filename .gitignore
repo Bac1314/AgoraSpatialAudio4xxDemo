@@ -73,4 +73,5 @@ crashlytics-build.properties
 
 #Bac's ignored files
 /Assets/Libraries/
+*.blob
 
