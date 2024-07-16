@@ -12,7 +12,7 @@ public class agorafeatures : MonoBehaviour
 {
 
     // Fill in your app ID.
-    private string _appID = "d5af82b4b85e4838b2caec2a84e71cf3";
+    private string _appID = "";
     // Fill in your channel name.
     private string _channelName = "channel_bac";
     // Fill in the temporary token you obtained from Agora Console.
